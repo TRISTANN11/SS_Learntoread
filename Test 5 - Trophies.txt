@@ -1,0 +1,1 @@
+Test 5: TrophiesInput:* Tapping the buttons in the trophy menu* Tapping the prompt to print certificate* Scrolling functionalityTests:* Test that the trophies appear if correct task for that trophy is completed* Test that taps in the menu work* Test that scrolling works* Test to print the certificateOutput:* Trophies show up and printing works if done correctly

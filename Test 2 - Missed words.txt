@@ -1,0 +1,1 @@
+Test 2: Missed wordsInput:* Voice recognition software in the books interfaceTests:* Test if the word is correct* Test with different accents* Test in alternate languages* Test with background noiseOutput:* Word is added to the correct word section if spoken correctly else incorrect
