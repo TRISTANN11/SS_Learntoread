@@ -1,26 +1,35 @@
 User stories:
-Male parent
-Female parent
-Male child
-Female child
-Teacher
+7 year old boy's grandpa.
+10 year old girl's mom
+3rd grade teacher. 
+8 year old male child
+11 year old female child
 
-Male parent:
+
+7 year old boy's grandpa:
+	Grandpa has parkinsons, is it still easy to navigate? Also has poor eyesight.
 	Navigate the parental controls menu and enter feedback. 
 	Next navigate to your child's awards and see their progress.
 
-Female parent:
+10 year old girl's mom:
+	The mother wants to push her child to advance her reading skills.
 	Navigate to the parental controls.
 	Next change the age and difficulty to what is an appropriate level for your child.
 
-Teacher:
+3rd grade teacher:
+	Teacher is teaching a class for below average readers.
 	Navigate to the rewards tab and print a certificate for your student. 
+	Check out the progress features to see how they can track their students' progress.
 	
-Male child:
+8 year old male child:
+	Child has dislexia and is trying to learn how to read. 
+	Goals: Explore if the child can use the software and see ways to improve usability for
+	users. 
 	Navigate to the library and open a book to read.
 	After finishing a book, go and check your progress in the progress tab.
 
-Female child:
+11 year old female child:
+	Child has attention disorder, test to see if we can keep the child engage.
 	Navigate to the learning sessions tab and practice words and grammar.
 	Afterwards try out the games
 	Lastly navigate to the progress tab and check your progress in the words and grammar. 
