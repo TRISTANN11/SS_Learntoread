@@ -1,0 +1,26 @@
+User stories:
+Male parent
+Female parent
+Male child
+Female child
+Teacher
+
+Male parent:
+	Navigate the parental controls menu and enter feedback. 
+	Next navigate to your child's awards and see their progress.
+
+Female parent:
+	Navigate to the parental controls.
+	Next change the age and difficulty to what is an appropriate level for your child.
+
+Teacher:
+	Navigate to the rewards tab and print a certificate for your student. 
+	
+Male child:
+	Navigate to the library and open a book to read.
+	After finishing a book, go and check your progress in the progress tab.
+
+Female child:
+	Navigate to the learning sessions tab and practice words and grammar.
+	Afterwards try out the games
+	Lastly navigate to the progress tab and check your progress in the words and grammar. 
